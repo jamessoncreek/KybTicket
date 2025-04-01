@@ -1,2 +1,2 @@
 # Ticket Generator
-### Here my ticket generator for CTF challenge
+### Here is my ticket generator for CTF challenge
