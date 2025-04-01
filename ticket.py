@@ -15,11 +15,11 @@ def ticket_generator(date: datetime.date, passenger: str):
     ticketPassenger = f'\
     |                                  | Passenger: {passenger}                         |\n'
     ticketInfo = f'\
-    | Estimated Departure: unknown    | Departure: unknown ===> Arrival: unknown    |\n\
-    | Gate: unknown                         | Date and time: {date}             |\n\
+    | Estimated Departure: unknown     | Departure: unknown ===> Arrival: unknown   |\n\
+    | Gate: unknown                    | Date and time: {date}                  |\n\
     |                                  |                                            |\n\
-    | Estimated Arrival Time: unknown |                                             |\n\
-    | Gate: unknown                        | Class: unknown                         |\n\
+    | Estimated Arrival Time: unknown  |                                            |\n\
+    | Gate: unknown                    | Class: unknown                             |\n\
     |                                  | Seat: unknown                              |\n\
     |_______________________________________________________________________________|\n\
     '
